@@ -1,10 +1,10 @@
-# 🏩 The Taj Hotel & Management System
+# The Taj Hotel & Management System
 
 A premium, full-stack MERN (MongoDB, Express, React, Node.js) web application designed for the legendary **Taj Hotel**. This system provides a seamless experience for guests to book royal stays and for administrators to manage operations with high-end aesthetics and role-based precision.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The Taj Hotel & Management System is an all-in-one hospitality portal that balances public-facing elegance with powerful backend management. It features:
 - **Public Browsing**: Explore iconic hotels and insightful blogs without logging in.
@@ -14,7 +14,7 @@ The Taj Hotel & Management System is an all-in-one hospitality portal that balan
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React (Vite)**: For a lightning-fast development and user experience.
@@ -31,7 +31,7 @@ The Taj Hotel & Management System is an all-in-one hospitality portal that balan
 
 ---
 
-## ⚙️ Setup Steps
+##  Setup Steps
 
 ### Prerequisites
 - Node.js installed
@@ -76,7 +76,7 @@ The Taj Hotel & Management System is an all-in-one hospitality portal that balan
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 p1/
@@ -99,7 +99,7 @@ p1/
 
 ---
 
-## 🔑 Role-Based Flow
+## Role-Based Flow
 
 The system employs **RBAC (Role-Based Access Control)** to ensure security and operational efficiency:
 
